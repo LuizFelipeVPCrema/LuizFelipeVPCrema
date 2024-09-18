@@ -5,6 +5,6 @@
 </div>
 <p align="center">
   <a href="https://github.com/LuizFelipeVPCrema">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,git,postman,styledcomponents,tailwind,flask,java,mysql,mongodb,nextjs,nodejs,npm,postgres,py,react,sklearn,vercel,vue" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,git,postman,styledcomponents,mongodb,mysql,postgres,py,react,tailwind,flask,java,nextjs,nodejs,npm,sklearn,vercel,vue" />
   </a>
 </p>
