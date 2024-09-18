@@ -4,6 +4,7 @@
 - **Formação:** Estudante de Ciência da Computação na UFMT
 - **Localização:** Cuiabá, Brasil
 - **Interesses:** Desenvolvimento Front-End, JavaScript, React, Vue.js
+- **Trabalho:** Desenvolvedor Full-Stack Python, Flask, React, Tailwind, React-Native, PostgreSQL 
 - **LinkedIn:** [Luiz Felipe V.P. Crema](https://linkedin.com/in/luiz-felipe-vargas-pereira-crema)
 
 ## 🛠️ Tecnologias e Ferramentas
