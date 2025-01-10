@@ -18,7 +18,7 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm)
 <p align="center">
   <a href="https://github.com/LuizFelipeVPCrema">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,git,postman,dotnet,styledcomponents,mongodb,mysql,postgres,py,react,tailwind,flask,java,nextjs,nodejs,npm,sklearn,vercel,vue" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,git,postman,dotnet,styledcomponents,mongodb,mysql,postgres,py,react,tailwind,flask,java,nextjs,nodejs,npm,sklearn,vercel,vue, cypress" />
   </a>
 </p>
 
