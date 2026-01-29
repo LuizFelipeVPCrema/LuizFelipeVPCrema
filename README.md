@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm)
 <p align="center">
